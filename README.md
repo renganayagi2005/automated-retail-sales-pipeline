@@ -34,3 +34,13 @@ This project is an automated sales analytics pipeline built using Python, SQL, a
 
 ### Pipeline Execution
 <img width="546" height="362" alt="Pipeline Execution" src="https://github.com/user-attachments/assets/481180cb-f4e5-4721-821c-d503df64bf84" />
+
+## How to Run
+
+1. Clone the repository
+
+bash
+git clone https://github.com/renganayagi2005/automated-retail-sales-pipeline.git
+
+pip install pandas matplotlib streamlit
+python analysis.py
